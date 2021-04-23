@@ -1,0 +1,31 @@
+{
+  "activeBrandingSetId" : "b613ff19-778b-4111-8b3b-196faa5e01d9",
+  "customCSS" : "",
+  "developerName" : "byo",
+  "id" : "bf43d2f5-677c-46cf-8bc2-84b0e779e03c",
+  "label" : "Build Your Own (LWR)",
+  "layouts" : {
+    "Inner" : "5c44f3e6-a6e5-45f4-b8a6-dd098330546b"
+  },
+  "type" : "theme",
+  "views" : [ {
+    "componentAttributes" : {
+      "footerBackgroundColor" : "rgb(239, 240, 242)",
+      "headerBackgroundColor" : "rgb(239, 240, 242)",
+      "mainBackgroundColor" : "rgb(255, 255, 255)"
+    },
+    "componentName" : "community_byo:headerAndFooter",
+    "id" : "5c44f3e6-a6e5-45f4-b8a6-dd098330546b",
+    "label" : "Default Header and Footer",
+    "regions" : [ {
+      "id" : "eea0cdc6-39d5-479d-b521-22e3f9cf860b",
+      "regionName" : "header",
+      "type" : "region"
+    }, {
+      "id" : "96b5c88f-6751-4c79-ac12-db69c0d1a78c",
+      "regionName" : "footer",
+      "type" : "region"
+    } ],
+    "type" : "view"
+  } ]
+}
